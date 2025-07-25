@@ -1,0 +1,893 @@
+{
+  "version": "1.2.0",
+  "appName": "LinguaSync",
+  "createdAt": "2025-07-25T17:08:11.440Z",
+  "project": {
+    "name": "Cellcept.pdf",
+    "context": "Patient information leaflet of cellcept.",
+    "sourceLanguage": "English",
+    "targetLanguage": "Hungarian",
+    "translationMemories": [
+      "VK_AmbulansLap_0611.trmem"
+    ]
+  },
+  "data": {
+    "segments": [
+      {
+        "id": 1753463291440,
+        "source": "This leaflet answers some common questions about CellCept capsules, tablets, infusion and oral suspension.",
+        "target": ""
+      },
+      {
+        "id": 1753463291441,
+        "source": "It does not contain all the available information.",
+        "target": ""
+      },
+      {
+        "id": 1753463291442,
+        "source": "It does not take the place of talking to your doctor or pharmacist.",
+        "target": ""
+      },
+      {
+        "id": 1753463291443,
+        "source": "All medicines have risks and benefits.",
+        "target": ""
+      },
+      {
+        "id": 1753463291444,
+        "source": "Your doctor has weighed the risks of you taking CellCept against the benefits expected for you.",
+        "target": ""
+      },
+      {
+        "id": 1753463291445,
+        "source": "If you have any concerns about taking this medicine, ask your doctor or pharmacist.",
+        "target": ""
+      },
+      {
+        "id": 1753463291446,
+        "source": "Keep this leaflet with the medicine.",
+        "target": ""
+      },
+      {
+        "id": 1753463291447,
+        "source": "You may need to read it again.",
+        "target": ""
+      },
+      {
+        "id": 1753463291448,
+        "source": "CellCept contains the active ingredient mycophenolate mofetil.",
+        "target": ""
+      },
+      {
+        "id": 1753463291449,
+        "source": "CellCept belongs to a group of medicines called immunosuppressants.",
+        "target": ""
+      },
+      {
+        "id": 1753463291450,
+        "source": "Immunosuppressants are used to prevent rejection of transplanted organs, and work by stopping your immune system from reacting to the transplanted organ.",
+        "target": ""
+      },
+      {
+        "id": 1753463291451,
+        "source": "CellCept may be used together with other medicines known as cyclosporin and corticosteroids.",
+        "target": ""
+      },
+      {
+        "id": 1753463291452,
+        "source": "Your doctor, however, may have prescribed CellCept for another purpose.",
+        "target": ""
+      },
+      {
+        "id": 1753463291453,
+        "source": "Ask your doctor if you have any questions why CellCept has been prescribed for you.",
+        "target": ""
+      },
+      {
+        "id": 1753463291454,
+        "source": "This medicine is available only with a doctor’s prescription.",
+        "target": ""
+      },
+      {
+        "id": 1753463291455,
+        "source": "Symptoms of an allergic reaction include swelling, itching, rash, breathing difficulties.",
+        "target": ""
+      },
+      {
+        "id": 1753463291456,
+        "source": "CellCept is harmful to an unborn baby when taken by a pregnant woman.",
+        "target": ""
+      },
+      {
+        "id": 1753463291457,
+        "source": "There have been cases of miscarriage and severe birth defects reported in patients exposed to CellCept during pregnancy.",
+        "target": ""
+      },
+      {
+        "id": 1753463291458,
+        "source": "You must tell your doctor if you are pregnant or plan to become pregnant.",
+        "target": ""
+      },
+      {
+        "id": 1753463291459,
+        "source": "CellCept may pass into human breast milk and could cause serious side effects in your baby if you breastfeed.",
+        "target": ""
+      },
+      {
+        "id": 1753463291460,
+        "source": "You must use two reliable forms of contraception at the same time before beginning CellCept therapy, during therapy and for at least six weeks after stopping CellCept, unless you are not sexually active.",
+        "target": ""
+      },
+      {
+        "id": 1753463291461,
+        "source": "If you take this medicine after the expiry date has passed it may not work as well.",
+        "target": ""
+      },
+      {
+        "id": 1753463291462,
+        "source": "If you are not sure if you should be taking CellCept, talk to your doctor.",
+        "target": ""
+      },
+      {
+        "id": 1753463291463,
+        "source": "− if you are a woman of child bearing potential, you must have one negative pregnancy test prior to starting treatment with CellCept.",
+        "target": ""
+      },
+      {
+        "id": 1753463291464,
+        "source": "A second text should be performed 8-10 days later.",
+        "target": ""
+      },
+      {
+        "id": 1753463291465,
+        "source": "Repeat pregnancy tests will be performed during routine follow-up visits with your doctor.",
+        "target": ""
+      },
+      {
+        "id": 1753463291466,
+        "source": "− you are recommended to use effective contraception during treatment and for 90 days after stopping treatment.",
+        "target": ""
+      },
+      {
+        "id": 1753463291467,
+        "source": "Your female partner(s) are recommended to use reliable contraception while you are being treated with CellCept and for 90 days after you have stopped receiving CellCept.",
+        "target": ""
+      },
+      {
+        "id": 1753463291468,
+        "source": "− You may not be able to take CellCept oral suspension as it contains a source of phenylalanine.",
+        "target": ""
+      },
+      {
+        "id": 1753463291469,
+        "source": "If you have not told your doctor about any of the above, do so before you start taking CellCept.",
+        "target": ""
+      },
+      {
+        "id": 1753463291470,
+        "source": "Tell your doctor if you are taking any other medicines including any that you have bought from a pharmacy, supermarket or healthfood shop.",
+        "target": ""
+      },
+      {
+        "id": 1753463291471,
+        "source": "Some medicines may interfere with how well CellCept works, or the medicines may not work as well when taken together with CellCept.",
+        "target": ""
+      },
+      {
+        "id": 1753463291472,
+        "source": "These medicines may be affected by CellCept or affect how well it works.",
+        "target": ""
+      },
+      {
+        "id": 1753463291473,
+        "source": "You may need to use different amounts of the medicine, or you may need to take different medicines or you may need to have additional blood tests when you are taking other medicines.",
+        "target": ""
+      },
+      {
+        "id": 1753463291474,
+        "source": "Your doctor will advise you.",
+        "target": ""
+      },
+      {
+        "id": 1753463291475,
+        "source": "Your doctor or pharmacist has more information on medicines to be careful with or avoid while taking CellCept.",
+        "target": ""
+      },
+      {
+        "id": 1753463291476,
+        "source": "Ask your doctor or pharmacist if you are not sure about this list of medicines.",
+        "target": ""
+      },
+      {
+        "id": 1753463291477,
+        "source": "Follow all directions given to you by your doctor or pharmacist carefully.",
+        "target": ""
+      },
+      {
+        "id": 1753463291478,
+        "source": "They may differ from the information contained within this leaflet.",
+        "target": ""
+      },
+      {
+        "id": 1753463291479,
+        "source": "Take CellCept exactly as your doctor has prescribed.",
+        "target": ""
+      },
+      {
+        "id": 1753463291480,
+        "source": "Your doctor will tell you how much CellCept to take each day.",
+        "target": ""
+      },
+      {
+        "id": 1753463291481,
+        "source": "Your treatment may be started with CellCept infusion and changed to tablets or capsules, usually within 14 days.",
+        "target": ""
+      },
+      {
+        "id": 1753463291482,
+        "source": "If you need an infusion into a vein a doctor or nurse will administer this.",
+        "target": ""
+      },
+      {
+        "id": 1753463291483,
+        "source": "The normal adult dose to prevent rejection is usually 2 g or 3 g per day, depending on which organ has been transplanted.",
+        "target": ""
+      },
+      {
+        "id": 1753463291484,
+        "source": "This should be taken as 1 g or 1.5 g in the morning, and another 1 g or 1.5 g at night.",
+        "target": ""
+      },
+      {
+        "id": 1753463291485,
+        "source": "The normal dose for children and adolescents aged 2 to 18 years to prevent rejection of a kidney transplant depends on their body surface area.",
+        "target": ""
+      },
+      {
+        "id": 1753463291486,
+        "source": "Your doctor will determine the daily dose up to a usual maximum of 2 g per day.",
+        "target": ""
+      },
+      {
+        "id": 1753463291487,
+        "source": "Your doctor may adjust your dose depending on your response.",
+        "target": ""
+      },
+      {
+        "id": 1753463291488,
+        "source": "Capsules or tablets should be swallowed whole with a glass of water.",
+        "target": ""
+      },
+      {
+        "id": 1753463291489,
+        "source": "CellCept oral suspension should be shaken well every time you use it to ensure you get the right dose.",
+        "target": ""
+      },
+      {
+        "id": 1753463291490,
+        "source": "After each dose of suspension, have a glass of water.",
+        "target": ""
+      },
+      {
+        "id": 1753463291491,
+        "source": "CellCept powder for infusion is added to an infusion bag and given as a “drip” into a vein, usually over a period of 2 hours or more.",
+        "target": ""
+      },
+      {
+        "id": 1753463291492,
+        "source": "If a capsule breaks open or a tablet is crushed accidentally then you should wash off any powder thoroughly with soap and water.",
+        "target": ""
+      },
+      {
+        "id": 1753463291493,
+        "source": "If the powder gets in your eyes you should rinse it out with plain water.",
+        "target": ""
+      },
+      {
+        "id": 1753463291494,
+        "source": "Avoid getting the suspension or the infusion solution on your skin or in your eyes.",
+        "target": ""
+      },
+      {
+        "id": 1753463291495,
+        "source": "If contact with your skin occurs, wash off any liquid thoroughly with soap and water.",
+        "target": ""
+      },
+      {
+        "id": 1753463291496,
+        "source": "If the liquid gets in your eyes, rinse it out with plain water.",
+        "target": ""
+      },
+      {
+        "id": 1753463291497,
+        "source": "You need to use the dispenser and bottle adapter supplied with the medicine to measure the dose.",
+        "target": ""
+      },
+      {
+        "id": 1753463291498,
+        "source": "Try not to inhale the dry powder.",
+        "target": ""
+      },
+      {
+        "id": 1753463291499,
+        "source": "Shake the closed bottle well for about 5 seconds before each use.",
+        "target": ""
+      },
+      {
+        "id": 1753463291500,
+        "source": "Take off the child-resistant bottle cap.",
+        "target": ""
+      },
+      {
+        "id": 1753463291501,
+        "source": "Take the dispenser and push the plunger completely down toward the tip of the dispenser.",
+        "target": ""
+      },
+      {
+        "id": 1753463291502,
+        "source": "Then put the tip of the dispenser firmly into the opening of the bottle adapter.",
+        "target": ""
+      },
+      {
+        "id": 1753463291503,
+        "source": "Pull the plunger down slowly.",
+        "target": ""
+      },
+      {
+        "id": 1753463291504,
+        "source": "Turn the whole thing back around the right way.",
+        "target": ""
+      },
+      {
+        "id": 1753463291505,
+        "source": "Holding onto the body of the dispenser, carefully pull the dispenser out of the bottle adapter.",
+        "target": ""
+      },
+      {
+        "id": 1753463291506,
+        "source": "The bottle adapter should stay in the bottle.",
+        "target": ""
+      },
+      {
+        "id": 1753463291507,
+        "source": "Put the end of the dispenser directly into your mouth and swallow the medicine.",
+        "target": ""
+      },
+      {
+        "id": 1753463291508,
+        "source": "Do not mix the medicine with any other liquid when you swallow it.",
+        "target": ""
+      },
+      {
+        "id": 1753463291509,
+        "source": "Close bottle with child-resistant cap after each use.",
+        "target": ""
+      },
+      {
+        "id": 1753463291510,
+        "source": "Immediately after administration disassemble the dispenser, rinse under running tap water and air dry prior to next use.",
+        "target": ""
+      },
+      {
+        "id": 1753463291511,
+        "source": "It is best to take doses approximately 12 hours apart.",
+        "target": ""
+      },
+      {
+        "id": 1753463291512,
+        "source": "Your dose can be taken with or without food.",
+        "target": ""
+      },
+      {
+        "id": 1753463291513,
+        "source": "Taking your medicine at the same time each day will have the best effect.",
+        "target": ""
+      },
+      {
+        "id": 1753463291514,
+        "source": "It will also help you to remember when to take CellCept.",
+        "target": ""
+      },
+      {
+        "id": 1753463291515,
+        "source": "CellCept should be taken every day.",
+        "target": ""
+      },
+      {
+        "id": 1753463291516,
+        "source": "It is important to keep taking CellCept to ensure your transplanted organ keeps working properly.",
+        "target": ""
+      },
+      {
+        "id": 1753463291517,
+        "source": "Continue taking CellCept until your doctor tells you to stop.",
+        "target": ""
+      },
+      {
+        "id": 1753463291518,
+        "source": "If it is almost time for your next dose, skip the dose you missed and take your next dose when you are meant to.",
+        "target": ""
+      },
+      {
+        "id": 1753463291519,
+        "source": "Otherwise, take it as soon as you remember and then go back to taking it as you would normally.",
+        "target": ""
+      },
+      {
+        "id": 1753463291520,
+        "source": "Do not double a dose to make up for one you have missed.",
+        "target": ""
+      },
+      {
+        "id": 1753463291521,
+        "source": "If you are not sure what to do, ask your doctor or pharmacist.",
+        "target": ""
+      },
+      {
+        "id": 1753463291522,
+        "source": "If you have trouble remembering your dose, ask your pharmacist for some hints.",
+        "target": ""
+      },
+      {
+        "id": 1753463291523,
+        "source": "Immediately telephone your doctor or National Poisons Information Centre (telephone 0800 POISON or 0800 764 766) for advice or go to your nearest Accident and Emergency centre if you think that you or anyone else may have taken too much CellCept, even if there are no signs of discomfort or poisoning.",
+        "target": ""
+      },
+      {
+        "id": 1753463291524,
+        "source": "You may need urgent medical attention.",
+        "target": ""
+      },
+      {
+        "id": 1753463291525,
+        "source": "Keep telephone numbers for these places handy.",
+        "target": ""
+      },
+      {
+        "id": 1753463291526,
+        "source": "If you are not sure what to do, contact your doctor or pharmacist.",
+        "target": ""
+      },
+      {
+        "id": 1753463291527,
+        "source": "Tell all doctors, dentists and pharmacists who are treating you that you are taking CellCept.",
+        "target": ""
+      },
+      {
+        "id": 1753463291528,
+        "source": "Tell your doctor if you become pregnant while taking CellCept.",
+        "target": ""
+      },
+      {
+        "id": 1753463291529,
+        "source": "Tell your doctor or go to your nearest Accident and Emergency centre immediately if you think you may have an infection (signs may include fever, chills, local inflammation, sore throat or ulcers in the mouth, but there could be other symptoms), any evidence of unexpected bruising or any unexpected bleeding.",
+        "target": ""
+      },
+      {
+        "id": 1753463291530,
+        "source": "These are serious side effects of taking CellCept and you may need urgent medical attention.",
+        "target": ""
+      },
+      {
+        "id": 1753463291531,
+        "source": "CellCept reduces your body's own defence mechanisms to stop you rejecting your transplanted organ.",
+        "target": ""
+      },
+      {
+        "id": 1753463291532,
+        "source": "Your body will not be as good at fighting infection as it normally is.",
+        "target": ""
+      },
+      {
+        "id": 1753463291533,
+        "source": "People taking CellCept often develop more infections than usual and this could increase the severity of the infection.",
+        "target": ""
+      },
+      {
+        "id": 1753463291534,
+        "source": "Wear protective clothing and a broad-spectrum sunscreen with a high protection factor when outdoors.",
+        "target": ""
+      },
+      {
+        "id": 1753463291535,
+        "source": "Medicines that prevent rejection of transplants, including CellCept, can cause a small increase in the risk of getting cancer, particularly skin cancers.",
+        "target": ""
+      },
+      {
+        "id": 1753463291536,
+        "source": "You should discuss this with your doctor if it concerns you.",
+        "target": ""
+      },
+      {
+        "id": 1753463291537,
+        "source": "Tell your doctor if, for any reason, you have not taken your medicine exactly as prescribed.",
+        "target": ""
+      },
+      {
+        "id": 1753463291538,
+        "source": "Otherwise, your doctor may think that it was not effective and change your treatment unnecessarily.",
+        "target": ""
+      },
+      {
+        "id": 1753463291539,
+        "source": "Tell your doctor if you feel your medicine is not helping your condition.",
+        "target": ""
+      },
+      {
+        "id": 1753463291540,
+        "source": "Be sure to keep all of your appointments with your doctor so that your progress can be checked.",
+        "target": ""
+      },
+      {
+        "id": 1753463291541,
+        "source": "Your doctor may need to give you regular blood tests.",
+        "target": ""
+      },
+      {
+        "id": 1753463291542,
+        "source": "Do not stop taking CellCept or change the dose without first checking with your doctor.",
+        "target": ""
+      },
+      {
+        "id": 1753463291543,
+        "source": "Do not let yourself run out of medicine over the weekend or on holidays.",
+        "target": ""
+      },
+      {
+        "id": 1753463291544,
+        "source": "Do not give CellCept to anyone else even if they have the same condition as you.",
+        "target": ""
+      },
+      {
+        "id": 1753463291545,
+        "source": "Do not use CellCept to treat other complaints unless your doctor says to.",
+        "target": ""
+      },
+      {
+        "id": 1753463291546,
+        "source": "Do not take any other medicines, whether they require a prescription or not, without first telling your doctor or consulting with a pharmacist.",
+        "target": ""
+      },
+      {
+        "id": 1753463291547,
+        "source": "Be careful driving or operating machinery until you know how CellCept affects you or if you experience somnolence, confusion, dizziness, tremor or hypotension.",
+        "target": ""
+      },
+      {
+        "id": 1753463291548,
+        "source": "As with many other medicines used to prevent rejection of transplanted organs, CellCept may cause dizziness, drowsiness or light-headedness in some people.",
+        "target": ""
+      },
+      {
+        "id": 1753463291549,
+        "source": "Make sure you know how you react to CellCept before you drive a car, operate machinery or do anything else that could be dangerous if you are dizzy, drowsy or light-headed.",
+        "target": ""
+      },
+      {
+        "id": 1753463291550,
+        "source": "Tell your doctor or pharmacist as soon as possible if you do not feel well while you are taking CellCept.",
+        "target": ""
+      },
+      {
+        "id": 1753463291551,
+        "source": "CellCept helps most people who have transplants but it may have unwanted side effects.",
+        "target": ""
+      },
+      {
+        "id": 1753463291552,
+        "source": "All medicines can have side effects.",
+        "target": ""
+      },
+      {
+        "id": 1753463291553,
+        "source": "Sometimes they are serious, most of the time they are not.",
+        "target": ""
+      },
+      {
+        "id": 1753463291554,
+        "source": "You may need medical treatment if you get some of the side effects.",
+        "target": ""
+      },
+      {
+        "id": 1753463291555,
+        "source": "Patients who receive immunosuppressant medicines may also have a small increase in their risk of developing some types of cancer.",
+        "target": ""
+      },
+      {
+        "id": 1753463291556,
+        "source": "You should discuss this with your doctor.",
+        "target": ""
+      },
+      {
+        "id": 1753463291557,
+        "source": "If you are over 65 years of age you may have an increased chance of getting side effects.",
+        "target": ""
+      },
+      {
+        "id": 1753463291558,
+        "source": "Ask your doctor or pharmacist to answer any questions you may have.",
+        "target": ""
+      },
+      {
+        "id": 1753463291559,
+        "source": "Tell your doctor if you notice any of the following and they worry you:",
+        "target": ""
+      },
+      {
+        "id": 1753463291560,
+        "source": "These are more common side effects of CellCept.",
+        "target": ""
+      },
+      {
+        "id": 1753463291561,
+        "source": "Mostly, these are mild.",
+        "target": ""
+      },
+      {
+        "id": 1753463291562,
+        "source": "Tell your doctor as soon as possible if you notice any of the following:",
+        "target": ""
+      },
+      {
+        "id": 1753463291563,
+        "source": "These may be serious side effects.",
+        "target": ""
+      },
+      {
+        "id": 1753463291564,
+        "source": "You may require medical treatment.",
+        "target": ""
+      },
+      {
+        "id": 1753463291565,
+        "source": "Tell your doctor immediately, or go to your nearest Accident and Emergency centre if you notice any of the following:",
+        "target": ""
+      },
+      {
+        "id": 1753463291566,
+        "source": "These are serious side effects.",
+        "target": ""
+      },
+      {
+        "id": 1753463291567,
+        "source": "You may need urgent medical attention.",
+        "target": ""
+      },
+      {
+        "id": 1753463291568,
+        "source": "Serious side effects are rare.",
+        "target": ""
+      },
+      {
+        "id": 1753463291569,
+        "source": "This is not a complete list of all possible side effects.",
+        "target": ""
+      },
+      {
+        "id": 1753463291570,
+        "source": "Others may occur in some people and there may be some side effects not yet known.",
+        "target": ""
+      },
+      {
+        "id": 1753463291571,
+        "source": "Ask your doctor or pharmacist if you don’t understand anything in this list.",
+        "target": ""
+      },
+      {
+        "id": 1753463291572,
+        "source": "Tell your doctor if you notice anything else that is making you feel unwell, even if it is not on this list.",
+        "target": ""
+      },
+      {
+        "id": 1753463291573,
+        "source": "Do not be alarmed by this list of possible side effects .",
+        "target": ""
+      },
+      {
+        "id": 1753463291574,
+        "source": "You may not experience any of them.",
+        "target": ""
+      },
+      {
+        "id": 1753463291575,
+        "source": "Keep your capsules or tablets in the blister pack until it is time to take them.",
+        "target": ""
+      },
+      {
+        "id": 1753463291576,
+        "source": "If you take the capsules or tablets out of the blister pack they may not keep well.",
+        "target": ""
+      },
+      {
+        "id": 1753463291577,
+        "source": "Keep CellCept capsules away from moisture and where the temperature stays below 25 ° C.",
+        "target": ""
+      },
+      {
+        "id": 1753463291578,
+        "source": "Keep CellCept tablets away from moisture and where the temperature stays below 25 ° C.",
+        "target": ""
+      },
+      {
+        "id": 1753463291579,
+        "source": "Keep CellCept powder for solution for infusion in a cool dry place where the temperature stays below 30 ° C.",
+        "target": ""
+      },
+      {
+        "id": 1753463291580,
+        "source": "Keep CellCept suspension and tablets in a cool dry place where the temperature stays below 25 o C.",
+        "target": ""
+      },
+      {
+        "id": 1753463291581,
+        "source": "Do not store them, or any other medicine, in a bathroom or near a sink.",
+        "target": ""
+      },
+      {
+        "id": 1753463291582,
+        "source": "Do not leave CellCept in the car or on windowsills.",
+        "target": ""
+      },
+      {
+        "id": 1753463291583,
+        "source": "Heat and dampness can destroy some medicines.",
+        "target": ""
+      },
+      {
+        "id": 1753463291584,
+        "source": "Discard CellCept Suspension after 60 days.",
+        "target": ""
+      },
+      {
+        "id": 1753463291585,
+        "source": "The suspension only lasts for 60 days after water has been added.",
+        "target": ""
+      },
+      {
+        "id": 1753463291586,
+        "source": "After this time it may not work as well.",
+        "target": ""
+      },
+      {
+        "id": 1753463291587,
+        "source": "Keep CellCept where young children cannot reach it.",
+        "target": ""
+      },
+      {
+        "id": 1753463291588,
+        "source": "A locked cupboard at least one-and-a-half metres above the ground is a good place to store medicines.",
+        "target": ""
+      },
+      {
+        "id": 1753463291589,
+        "source": "If your doctor tells you to stop taking CellCept, or the products have passed their expiry date, ask your pharmacist what to do with any medicine that is left over.",
+        "target": ""
+      },
+      {
+        "id": 1753463291590,
+        "source": "CellCept capsules are oblong, blue on one end and brown on the other, with \"CellCept 250\" printed in black ink on the cap and \"Roche\" on the body.",
+        "target": ""
+      },
+      {
+        "id": 1753463291591,
+        "source": "They come in packs of 100.",
+        "target": ""
+      },
+      {
+        "id": 1753463291592,
+        "source": "CellCept tablets are lavender coloured and capsule-shaped, with \"CellCept 500\" engraved on one side and \"Roche\" on the other.",
+        "target": ""
+      },
+      {
+        "id": 1753463291593,
+        "source": "They come in packs of 50.",
+        "target": ""
+      },
+      {
+        "id": 1753463291594,
+        "source": "CellCept oral suspension comes in a bottle with adapter and two oral dispensers.",
+        "target": ""
+      },
+      {
+        "id": 1753463291595,
+        "source": "Once the water is added it is a white to off-white liquid.",
+        "target": ""
+      },
+      {
+        "id": 1753463291596,
+        "source": "It comes in a single bottle pack.",
+        "target": ""
+      },
+      {
+        "id": 1753463291597,
+        "source": "CellCept powder for solution for infusion is a white to off-white powder.",
+        "target": ""
+      },
+      {
+        "id": 1753463291598,
+        "source": "When made up into solution it is slightly yellow.",
+        "target": ""
+      },
+      {
+        "id": 1753463291599,
+        "source": "It comes in packs of 4 vials.",
+        "target": ""
+      },
+      {
+        "id": 1753463291600,
+        "source": "CellCept capsules contain 250 mg of mycophenolate mofetil.",
+        "target": ""
+      },
+      {
+        "id": 1753463291601,
+        "source": "CellCept oral suspension contains 200 mg/mL of mycophenolate mofetil after the water has been added, to a total volume of 165 mL.",
+        "target": ""
+      },
+      {
+        "id": 1753463291602,
+        "source": "CellCept infusion solution contains 6 mg/ml mycophenolate mofetil.",
+        "target": ""
+      },
+      {
+        "id": 1753463291603,
+        "source": "Capsules: pregelatinised maize starch, croscarmellose sodium, polyvidone and magnesium stearate.",
+        "target": ""
+      },
+      {
+        "id": 1753463291604,
+        "source": "The capsule shell contains gelatin, shellac, potassium hydroxide, indigo carmine, red, yellow and black iron oxide, titanium dioxide, and may also contain sodium lauryl sulphate, silicon dioxide and carboxymethylcellulose.",
+        "target": ""
+      },
+      {
+        "id": 1753463291605,
+        "source": "Tablets: microcrystalline cellulose, croscarmellose sodium, povidone, magnesium stearate, hypromellose, hydroxypropyl cellulose, titanium dioxide, polyethylene glycol, indigo carmine aluminium lake, red iron oxide.",
+        "target": ""
+      },
+      {
+        "id": 1753463291606,
+        "source": "Suspension: sorbitol, anhydrous colloidal silica, sodium citrate dihydrate, soybean lecithin, mixed fruit flavour, xanthan gum, aspartame, methylparaben and citric acid.",
+        "target": ""
+      },
+      {
+        "id": 1753463291607,
+        "source": "Powder for solution for infusion: polysorbate 80, citric acid and sodium chloride.",
+        "target": ""
+      },
+      {
+        "id": 1753463291608,
+        "source": "CellCept capsules and tablets are gluten and lactose free.",
+        "target": ""
+      },
+      {
+        "id": 1753463291609,
+        "source": "CellCept is distributed by:",
+        "target": ""
+      }
+    ]
+  },
+  "session": {
+    "inputTokenCount": 0,
+    "outputTokenCount": 0,
+    "apiCallCount": 0,
+    "activeSegmentId": 1753463291563
+  },
+  "settings": {
+    "prompts": {
+      "segmentation": "You are a text processing expert. Your task is to segment the following text into a list of sentences.\nMaintain the original wording and punctuation precisely. Do not add, remove, or alter any content.\nThe output must be a JSON object with a single key \"sentences\" which contains an array of strings.\n\nHere is the text to segment:\n---\n${text}\n---",
+      "suggestion": "You are a professional translator providing translation assistance from ${sourceLanguage} to ${targetLanguage}. You are translating a document with the following general context: \"${documentContext}\".\n\nGiven the source text and the current state of the translation, provide a list of up to 3 helpful suggestions. These suggestions can be:\n1. The most likely next word to continue the sentence.\n2. A synonym or alternative phrasing for the last word of the current translation, if appropriate.\n3. A better word choice to improve the translation's quality or style.\n\nThe response must be a JSON object with a single key \"suggestions\", which is an array of strings. Each string is a single word or a short phrase.\nDo not include any other text, explanation, or markdown formatting.\n\nSource: \"${sourceText}\"\nCurrent Translation: \"${targetText}\"",
+      "evaluation": "You are a translation quality evaluator and proofreader.\nAnalyze the following translation of a text segment. Consider grammatical accuracy, semantic equivalence, style, and consistency with the provided context.\n\nGeneral context of the document:\n---\n${documentContext}\n---\n\nTranslation details:\nTranslating from ${sourceLanguage} to ${targetLanguage}.\n---\n\nContext of the document (previous segments):\n---\n${context}\n---\n\nSegment to evaluate:\nSource: \"${sourceText}\"\nTranslated: \"${targetText}\"\n\nProvide your evaluation in a JSON format with two keys:\n1. \"evaluation\": An object with two sub-keys:\n   - \"rating\": A numerical score from 1 to 5 (1=poor, 5=perfect).\n   - \"feedback\": A concise, one or two-sentence explanation of the rating.\n2. \"errors\": An array of objects for any grammatical/spelling errors found in the *Translated* text. Each object must have three keys: \"error\" (the incorrect phrase), \"correction\" (the suggested fix), and \"explanation\". If no errors, return an empty array.\n\nDo not include any other text or explanation outside of the main JSON object.",
+      "grammar": "You are an expert proofreader. Analyze the following text for grammatical errors, spelling mistakes, and typos.\nReturn your findings as a JSON object containing a single key \"errors\", which is an array of objects.\nEach object in the array should represent a single error and must have three keys:\n1. \"error\": The exact word or phrase from the text that is incorrect. This must be a verbatim substring from the original text.\n2. \"correction\": A suggested replacement for the incorrect text.\n3. \"explanation\": A brief, clear explanation of the mistake.\n\nIf there are no errors, return an empty \"errors\" array.\nDo not include any other text or explanation outside of the main JSON object.\n\nText to analyze:\n---\n${text}\n---",
+      "grammarCorrectionHtml": "You are a meticulous proofreader. Your task is to correct grammatical errors, spelling mistakes, and typos in the following text, which may contain HTML tags for formatting.\n- Preserve all existing HTML tags (like <b>, <i>, <u>, <span>, etc.) and their positions relative to the text they wrap.\n- Only correct the text content. Do not add, remove, or modify any HTML tags.\nThe output must be a JSON object with a single key \"correctedHtml\" which contains the full, corrected text with its original HTML tags intact.\n\nText to correct:\n---\n${htmlText}\n---",
+      "translation": "You are an expert translator. Provide 3 high-quality, distinct translations from ${sourceLanguage} to ${targetLanguage} for the following source text.\nThe document context is: \"${documentContext}\".\nConsider different phrasing and tone where appropriate.\nSource text: \"${sourceText}\"\nRespond with a JSON object with a single key \"translations\", which is an array of 3 strings.\nDo not include any other text, explanation, or markdown formatting.",
+      "termExtraction": "You are a terminology expert processing a document for translation.\nAnalyze the following document text to identify key terms (e.g., nouns, noun phrases, technical terms, proper names).\nFor each term, provide a likely translation from ${sourceLanguage} to ${targetLanguage} based on the general context of the document provided below.\nReturn a list of up to 25 of the most important and relevant terms.\n\nDocument Context: \"${documentContext}\"\n\nThe output must be a JSON object with a single key \"terms\", which is an array of objects. Each object must have two keys: \"source\" and \"target\".\nDo not include any other text or explanation.\n\nDocument text to analyze:\n---\n${text}\n---",
+      "definition": "You are a dictionary expert. Provide a concise definition for the word \"${word}\" as used when translating from ${sourceLanguage} to ${targetLanguage}. The definition should be in English. \nIf the word has multiple meanings, provide the most likely one given the context.\nRespond with a JSON object with a single key \"definition\", which is a string containing the definition.\nDo not include any other text, explanation, or markdown formatting.",
+      "inflection": "You are a linguistic expert specializing in grammar and inflection. Your task is to correctly inflect a base translation term to fit grammatically into a target sentence. Use the source sentence for context.\n\n- Source Sentence: \"${sourceSentence}\"\n- Target Sentence (in progress): \"${targetSentence}\"\n- Base Term Translation: \"${baseTranslation}\"\n\nAnalyze the target sentence and provide the correctly inflected form of the base term. Respond with a JSON object containing a single key, \"inflection\", which is a string holding only the inflected word or phrase. Do not provide explanations.\n\nExample:\n- Source Sentence: \"I saw two beautiful mice.\"\n- Target Sentence (in progress): \"Ich sah zwei schöne\"\n- Base Term Translation (German): \"Maus\"\n- Your response: { \"inflection\": \"Mäuse\" }",
+      "structureAnalysis": "You are an expert in linguistics, specializing in identifying semantic relationships in sentences. Your task is to analyze the provided sentence and identify which words or phrases (dependents) describe or modify other words or phrases (heads).\n\nFor each dependent you identify, wrap it in a span tag with the following attributes:\n1.  A \"class\" attribute with the value \"structure-highlight\".\n2.  A \"data-title\" attribute whose value is the exact text of the head word or phrase it refers to.\n\nThe goal is to show what each descriptive part of the sentence is connected to.\n\n-   For an adjective (e.g., \"rozoga\" - clunky), the head is the noun it modifies (e.g., \"autót\" - car).\n-   For an adverb of manner (e.g., \"ügyesen\" - skillfully), the head is the subject performing the action (e.g., \"Karcsi\").\n-   For a subordinate clause describing a concurrent action (e.g., \"miközben podcastet hallgat\" - while listening to a podcast), the head is the subject performing that action (e.g., \"Karcsi\").\n\nThe final output must be a JSON object with a single key \"html\" containing the fully marked-up HTML string. Only wrap the dependent parts. Do not wrap the head words themselves.\n\nExample:\n- Input: \"Karcsi ügyesen vezeti a rozoga autót, miközben podcastet hallgat.\"\n- Output: { \"html\": \"Karcsi <span class=\\\"structure-highlight\\\" data-title=\\\"Karcsi\\\">ügyesen</span> vezeti a <span class=\\\"structure-highlight\\\" data-title=\\\"autót\\\">rozoga</span> autót, <span class=\\\"structure-highlight\\\" data-title=\\\"Karcsi\\\">miközben podcastet hallgat</span>.\" }\n\nNow, analyze the following sentence:\n---\n${text}\n---\n",
+      "punctuationCorrection": "You are a meticulous proofreader. Your task is to correct only the punctuation in the following text. Do not change any words, phrasing, or sentence structure.\nThe output must be a JSON object with a single key \"correctedText\" which contains the full, corrected text as a string.\n\nText to correct:\n---\n${text}\n---",
+      "dateAnalysis": "You are an expert in cultural linguistics. Your task is to analyze the provided sentence, identify all dates, and format them for the specified target language culture.\n\nFor each date you identify, wrap it in a span tag with the following attributes:\n1.  A \"class\" attribute with the value \"date-highlight\".\n2.  A \"data-title\" attribute whose value is the date formatted appropriately for a user in ${targetLanguage}.\n\nThe final output must be a JSON object with a single key \"html\" containing the fully marked-up HTML string. Only wrap the identified dates.\n\nExample:\n- Input: \"The meeting is on 12/10/2024.\"\n- Target Language: \"British English\"\n- Output: { \"html\": \"The meeting is on <span class=\\\"date-highlight\\\" data-title=\\\"12 October 2024\\\">12/10/2024</span>.\" }\n\nNow, analyze the following sentence:\n---\n${text}\n---",
+      "entityAnalysis": "You are an expert in linguistics and translation. Your task is to analyze the provided sentence, identify all named entities (like geographical names, universities, institutions, etc.), and find their commonly accepted name in the target language.\n\nFor each entity you identify, wrap it in a span tag with the following attributes:\n1.  A \"class\" attribute with the value \"entity-highlight\".\n2.  A \"data-title\" attribute whose value is the commonly accepted translation of the entity in ${targetLanguage}. If no common translation exists, use the original name.\n\nThe final output must be a JSON object with a single key \"html\" containing the fully marked-up HTML string. Only wrap the identified entities.\n\nExample:\n- Input: \"He lives near The Rockies.\"\n- Target Language: \"Hungarian\"\n- Output: { \"html\": \"He lives near <span class=\\\"entity-highlight\\\" data-title=\\\"Sziklás-hegység\\\">The Rockies</span>.\" }\n\nNow, analyze the following sentence:\n---\n${text}\n---",
+      "chatSystemInstruction": "You are an expert translator and proofreader acting as a translation assistant.\nThe user will first provide you with the entire source document to be translated from ${sourceLanguage} to ${targetLanguage}, with the general context of: \"${documentContext}\".\nYou will acknowledge receiving it.\n\nAfter that, the user will send translation segments one by one in a chat format. You must adhere to the following rules for your responses:\n\n1.  **For Evaluation requests**: The user will provide a \"Source\" text and their \"Translated\" text. Your task is to analyze this pair.\n    Your response MUST be a single, valid JSON object and nothing else. This JSON object must contain two keys:\n    - \"evaluation\": An object with a \"rating\" (1-5) and \"feedback\" (string).\n    - \"errors\": An array of objects for any mistakes in the *Translated* text. Each error object must have \"error\", \"correction\", and \"explanation\" keys. If there are no errors, this array MUST be empty.\n\n2.  **For Machine Translation requests**: The user will provide only a \"Source\" text. Your task is to provide translation options.\n    Your response MUST be a single, valid JSON object and nothing else. This JSON object must contain a single key:\n    - \"translations\": An array of 3 distinct, high-quality translation strings.\n\n3.  **For Suggestion requests**: The user will provide a \"Source\" text, the \"Current Translation\", and a request for \"Suggestions\". Provide up to 3 helpful suggestions (next word, alternative phrasing).\n    Your response MUST be a single, valid JSON object and nothing else. This JSON object must contain a single key:\n    - \"suggestions\": An array of strings.\n\nMaintain the context of the entire conversation, including the full document and all previous segment translations, to ensure consistency in terminology and style. Do not add any conversational text, pleasantries, or markdown formatting around your JSON responses."
+    },
+    "model": "gemini-2.5-flash"
+  }
+}

@@ -1,14 +1,16 @@
 {
   "version": "1.2.0",
   "appName": "LinguaSync",
-  "createdAt": "2025-07-28T12:27:34.412Z",
+  "createdAt": "2025-07-28T12:33:45.879Z",
   "project": {
     "name": "Cellcept.pdf",
     "context": "Patient information leaflet of cellcept.",
     "sourceLanguage": "English",
     "targetLanguage": "Hungarian",
     "translationMemories": [
-      "VK_AmbulansLap_0611.trmem"
+      "VK_AmbulansLap_0611.trmem",
+      "Advagraf_eng.pdf_hun.trmem",
+      "aneszt.-beleegy (2).trmem"
     ],
     "termDatabases": []
   },
@@ -871,7 +873,7 @@
     "inputTokenCount": 13716,
     "outputTokenCount": 4036,
     "apiCallCount": 5,
-    "activeSegmentId": 1753463291580
+    "activeSegmentId": 1753463291477
   },
   "settings": {
     "prompts": {

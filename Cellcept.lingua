@@ -1,7 +1,7 @@
 {
   "version": "1.2.0",
   "appName": "LinguaSync",
-  "createdAt": "2025-07-25T17:08:11.440Z",
+  "createdAt": "2025-07-28T11:45:31.243Z",
   "project": {
     "name": "Cellcept.pdf",
     "context": "Patient information leaflet of cellcept.",
@@ -867,9 +867,9 @@
     ]
   },
   "session": {
-    "inputTokenCount": 6770,
-    "outputTokenCount": 996,
-    "apiCallCount": 2,
+    "inputTokenCount": 10155,
+    "outputTokenCount": 1320,
+    "apiCallCount": 3,
     "activeSegmentId": 1753463291563
   },
   "settings": {

@@ -1,7 +1,7 @@
 {
   "version": "1.2.0",
   "appName": "LinguaSync",
-  "createdAt": "2025-07-28T11:45:31.243Z",
+  "createdAt": "2025-07-28T12:27:34.412Z",
   "project": {
     "name": "Cellcept.pdf",
     "context": "Patient information leaflet of cellcept.",
@@ -632,7 +632,8 @@
       {
         "id": 1753463291563,
         "source": "These may be serious side effects.",
-        "target": ""
+        "target": "<br>",
+        "isDirty": true
       },
       {
         "id": 1753463291564,
@@ -867,10 +868,10 @@
     ]
   },
   "session": {
-    "inputTokenCount": 10155,
-    "outputTokenCount": 1320,
-    "apiCallCount": 3,
-    "activeSegmentId": 1753463291563
+    "inputTokenCount": 13716,
+    "outputTokenCount": 4036,
+    "apiCallCount": 5,
+    "activeSegmentId": 1753463291580
   },
   "settings": {
     "prompts": {
@@ -880,7 +881,7 @@
       "grammar": "You are an expert proofreader. Analyze the following text for grammatical errors, spelling mistakes, and typos.\nReturn your findings as a JSON object containing a single key \"errors\", which is an array of objects.\nEach object in the array should represent a single error and must have three keys:\n1. \"error\": The exact word or phrase from the text that is incorrect. This must be a verbatim substring from the original text.\n2. \"correction\": A suggested replacement for the incorrect text.\n3. \"explanation\": A brief, clear explanation of the mistake.\n\nIf there are no errors, return an empty \"errors\" array.\nDo not include any other text or explanation outside of the main JSON object.\n\nText to analyze:\n---\n${text}\n---",
       "grammarCorrectionHtml": "You are a meticulous proofreader. Your task is to correct grammatical errors, spelling mistakes, and typos in the following text, which may contain HTML tags for formatting.\n- Preserve all existing HTML tags (like <b>, <i>, <u>, <span>, etc.) and their positions relative to the text they wrap.\n- Only correct the text content. Do not add, remove, or modify any HTML tags.\nThe output must be a JSON object with a single key \"correctedHtml\" which contains the full, corrected text with its original HTML tags intact.\n\nText to correct:\n---\n${htmlText}\n---",
       "translation": "You are an expert translator. Provide 3 high-quality, distinct translations from ${sourceLanguage} to ${targetLanguage} for the following source text.\nThe document context is: \"${documentContext}\".\nThis is the already translated text: \"${targetText}\"\nPrevious segment for context: ${context}\nConsider different phrasing and tone where appropriate.\nSource text: \"${sourceText}\"\nRespond with a JSON object with a single key \"translations\", which is an array of 3 strings.\nDo not include any other text, explanation, or markdown formatting.",
-      "termExtraction": "You are a terminology expert processing a document for translation.\nAnalyze the following document text to identify key terms (e.g., nouns, noun phrases, technical terms, proper names).\nFor each term, provide a likely translation from ${sourceLanguage} to ${targetLanguage} based on the general context of the document provided below.\nReturn a list of up to 25 of the most important and relevant terms.\n\nDocument Context: \"${documentContext}\"\n\nThe output must be a JSON object with a single key \"terms\", which is an array of objects. Each object must have two keys: \"source\" and \"target\".\nDo not include any other text or explanation.\n\nDocument text to analyze:\n---\n${text}\n---",
+      "termExtraction": "You are a terminology expert processing a document for translation.\nAnalyze the following document text to identify key terms (e.g., nouns, noun phrases, technical terms, proper names).\nFor each term, provide a likely translation from ${sourceLanguage} to ${targetLanguage} based on the general context of the document provided below.\nReturn a listof the most important and relevant medical terms.\n\nDocument Context: \"${documentContext}\"\n\nThe output must be a JSON object with a single key \"terms\", which is an array of objects. Each object must have three keys: \"source\", \"target\", and \"definition\".\nDo not include any other text or explanation.\n\nDocument text to analyze:\n---\n${text}\n---",
       "definition": "You are a dictionary expert. Provide a concise definition for the word \"${word}\" as used when translating from ${sourceLanguage} to ${targetLanguage}. The definition should be in English. \nIf the word has multiple meanings, provide the most likely one given the context.\nRespond with a JSON object with a single key \"definition\", which is a string containing the definition.\nDo not include any other text, explanation, or markdown formatting.",
       "inflection": "You are a linguistic expert specializing in grammar and inflection. Your task is to correctly inflect a base translation term to fit grammatically into a target sentence. Use the source sentence for context.\n\n- Source Sentence: \"${sourceSentence}\"\n- Target Sentence (in progress): \"${targetSentence}\"\n- Base Term Translation (${targetLanguage}): \"${baseTranslation}\"\n\nAnalyze the target sentence and provide the correctly inflected form of the base term. Respond with a JSON object containing a single key, \"inflection\", which is a string holding only the inflected word or phrase. Do not provide explanations.\n\nExample:\n- Source Sentence: \"I saw two beautiful mice.\"\n- Target Sentence (in progress): \"Ich sah zwei schöne\"\n- Base Term Translation (German): \"Maus\"\n- Your response: { \"inflection\": \"Mäuse\" }",
       "structureAnalysis": "You are an expert in linguistics, specializing in identifying semantic relationships in sentences. Your task is to analyze the provided sentence and identify which words or phrases (dependents) describe or modify other words or phrases (heads).\n\nFor each dependent you identify, wrap it in a <span> tag with the following attributes:\n1.  A \"class\" attribute with the value \"structure-highlight\".\n2.  A \"data-title\" attribute whose value is the exact text of the head word or phrase it refers to.\n\nThe goal is to show what each descriptive part of the sentence is connected to.\n\n-   For an adjective (e.g., \"rozoga\" - clunky), the head is the noun it modifies (e.g., \"autót\" - car).\n-   For an adverb of manner (e.g., \"ügyesen\" - skillfully), the head is the subject performing the action (e.g., \"Karcsi\").\n-   For a subordinate clause describing a concurrent action (e.g., \"miközben podcastet hallgat\" - while listening to a podcast), the head is the subject performing that action (e.g., \"Karcsi\").\n\nThe final output must be a JSON object with a single key \"html\" containing the fully marked-up HTML string. Only wrap the dependent parts. Do not wrap the head words themselves.\n\nExample:\n- Input: \"Karcsi ügyesen vezeti a rozoga autót, miközben podcastet hallgat.\"\n- Output: { \"html\": \"Karcsi <span class=\\\"structure-highlight\\\" data-title=\\\"Karcsi\\\">ügyesen</span> vezeti a <span class=\\\"structure-highlight\\\" data-title=\\\"autót\\\">rozoga</span> autót, <span class=\\\"structure-highlight\\\" data-title=\\\"Karcsi\\\">miközben podcastet hallgat</span>.\" }\n\nNow, analyze the following sentence:\n---\n${text}\n---\n",
